@@ -1,0 +1,15 @@
+{
+  "name": "node-finger",
+  "version": "1.0.0",
+  "description": "指纹仪node.js模块",
+  "main": "index.js",
+  "author": {
+    "email": "libinqi@outlook.com",
+    "name": "libinqi"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/libinqi/node-finger.git"
+  }
+}
